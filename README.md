@@ -13,4 +13,4 @@ Integrantes:
 
 ## Descripción no Funcional ##
 
-[Diseño de la carcaza](#heading-1 "Case Design")
+[Diseño de la carcaza](https://github.com/felipeg86/Easyrun/tree/main/Case%20Design)
