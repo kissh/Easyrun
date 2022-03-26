@@ -13,4 +13,4 @@ Integrantes:
 
 ## Descripción no Funcional ##
 
-[heading-1](#heading-1 "Easyrun :bike:")
+[Diseño de la carcaza](#heading-1 "Case Design")
