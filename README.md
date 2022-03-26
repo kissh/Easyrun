@@ -7,6 +7,6 @@ Integrantes:
 * Juan Felipe González Pardo
 * 
 
-# Descripción Funcional 
+## Descripción Funcional ##
 
-# Descripción no Funcional
+## Descripción no Funcional ##
