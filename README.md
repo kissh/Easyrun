@@ -13,4 +13,4 @@ Integrantes:
 
 ## Descripción no Funcional ##
 
-# Diseño de la carcaza "Goto Case Design"
+[heading-1](#heading-1 "Easyrun :bike:")
