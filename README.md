@@ -4,7 +4,7 @@ Sistema de automatización de préstamo de bicicletas dentro del campus de la Un
 
 Integrantes: 
 
-* Ana Milena Espinosa Jimenez
+* Ana Milena Espinosa Jiménez
 * Laura Valentina Moreno Castro
 * Johan Stevens Higuera Espinel
 * Juan Felipe González Pardo
