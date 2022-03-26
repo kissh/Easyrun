@@ -4,9 +4,13 @@ Sistema de automatización de préstamo de bicicletas dentro del campus de la Un
 
 Integrantes: 
 
+*
+*
+*
 * Juan Felipe González Pardo
-* 
 
 ## Descripción Funcional ##
 
 ## Descripción no Funcional ##
+
+# Diseño de la carcaza "Goto Case Design"
