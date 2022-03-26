@@ -1,1 +1,1 @@
-# Diseño de la carcaza protectora
+# Diseño de la carcaza
