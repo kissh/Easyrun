@@ -13,6 +13,6 @@ Integrantes:
 
 ## Descripción no Funcional ##
 
-# [Diseño de la PCB](https://github.com/felipeg86/Easyrun/tree/main/Circuit%20Design)
-# [Código del microcontrolador](hhttps://github.com/felipeg86/Easyrun/tree/main/Micropython)
-# [Diseño de la carcaza](https://github.com/felipeg86/Easyrun/tree/main/Case%20Design)
+## [Diseño de la PCB](https://github.com/felipeg86/Easyrun/tree/main/Circuit%20Design)
+## [Código del microcontrolador](https://github.com/felipeg86/Easyrun/tree/main/Micropython)
+## [Diseño de la carcaza](https://github.com/felipeg86/Easyrun/tree/main/Case%20Design)
