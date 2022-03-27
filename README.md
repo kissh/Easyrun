@@ -17,4 +17,4 @@ Integrantes:
 ## [Código del microcontrolador](https://github.com/felipeg86/Easyrun/tree/main/Micropython)
 ## [Diseño de la carcaza](https://github.com/felipeg86/Easyrun/tree/main/Case%20Design)
 
-![Imagen]() 
+![Imagen](https://github.com/felipeg86/Easyrun/blob/main/Images/Embebidos%20-%20Frame%201.jpg) 
